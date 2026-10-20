@@ -1,0 +1,7 @@
+# Your TV's address, MAC and auth token. Never commit these.
+tv_config.json
+tv-token.txt
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

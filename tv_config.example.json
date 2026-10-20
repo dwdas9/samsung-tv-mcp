@@ -1,0 +1,25 @@
+{
+  "host": "192.168.1.50",
+  "mac": "AA:BB:CC:DD:EE:FF",
+  "broadcast": "192.168.1.255",
+  "client_name": "ClaudeMCP",
+  "apps": {
+    "YouTube": "111299001912",
+    "Netflix": "3201907018807",
+    "Prime Video": "3201910019365",
+    "Disney+": "3201901017640",
+    "Apple TV": "3201807016597",
+    "Spotify": "3201606009684",
+    "Apple Music": "3201908019041",
+    "Plex": "3201512006963",
+    "Tubi": "3201504001965",
+    "Pluto TV": "3201808016802",
+    "Twitch": "3202203026841",
+    "YouTube TV": "3201707014489",
+    "Netflix (legacy)": "11101200001",
+    "Prime Video (legacy)": "3201512006785",
+    "Internet": "3201907018784",
+    "Gallery": "3201710015037"
+  },
+  "expected_background_apps": []
+}
